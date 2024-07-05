@@ -1,0 +1,71 @@
+/* <!-- EC/2020/032 --> */
+
+.skill {
+    height: 795px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.main {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.col {
+    color: #00ADB5;
+}
+
+table {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 20px;
+    vertical-align: top;
+}
+
+.cen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.col12 {
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.col1 {
+    color: white;
+    font-weight: 50;
+    text-align: center;
+}
+
+.blur {
+    width: 471.023px;
+    height: 608px;
+    transform: rotate(-26.256deg);
+    flex-shrink: 0;
+    border-radius: 608px;
+    background: linear-gradient(180deg, #30467F 4.4%, #113234 78.4%);
+    filter: blur(95.1500015258789px);
+}
+
+.top {
+    padding-top: 50px;
+}
+
+.sp {
+    display: flex; /* Enables Flexbox */
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+}
+

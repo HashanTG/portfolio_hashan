@@ -1,0 +1,20 @@
+/* <!-- EC/2020/032 --> */
+
+.work{
+ 
+height: 1600px;
+
+background: #363F4A;
+
+   
+}
+
+.big{
+    width: 716.735px;
+height: 405px;
+flex-shrink: 0;
+}
+.center1{
+    display: flex; /* Enables Flexbox */
+    justify-content: center; /* Centers horizontally */
+}

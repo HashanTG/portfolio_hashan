@@ -1,0 +1,57 @@
+/* <!-- EC/2020/032 --> */
+
+.contact{
+  
+height: 500px;
+color: white;
+}
+.fom{
+    width: 400px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+}
+
+.fom1{
+    width: 400px;
+    height: 100px;
+    color: white;
+    border-radius: 10px;
+}
+
+.cen12{
+    padding-left: 200px;
+}
+.cen123{
+    padding-left: 100px;
+}
+
+.foot{
+    height: 50px;
+    display: flex; /* Enables Flexbox */
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    font-style: normal;
+font-weight: 200;
+line-height: normal;
+}
+
+.cenq {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.cenqw {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+
+.bn{
+    padding-left: 10px;
+}
+.bn1{
+    padding-right: 10px;
+}

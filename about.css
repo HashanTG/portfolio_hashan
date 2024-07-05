@@ -1,0 +1,36 @@
+/* <!-- EC/2020/032 --> */
+
+.about{
+display: flex;
+height: 795px;
+flex-shrink: 0;
+background: #363F4A;
+display: flex; /* Enables Flexbox */
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+}
+.My2{
+    width: 357px;
+height: 469px;
+flex-shrink: 0;
+}
+
+.img2{
+    margin-right: 300px;
+}
+
+.para1{
+    color: white;
+    
+}
+
+.main{
+    text-align: center;
+    color: white;
+}
+.col{
+    color: #00ADB5;
+}
+
+
+
